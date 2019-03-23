@@ -1,0 +1,7 @@
+C:\Users\Senthilkumar\source\repos\myLearnings\myLearnings\bin\Debug\myLearnings.exe.config
+C:\Users\Senthilkumar\source\repos\myLearnings\myLearnings\bin\Debug\myLearnings.exe
+C:\Users\Senthilkumar\source\repos\myLearnings\myLearnings\bin\Debug\myLearnings.pdb
+C:\Users\Senthilkumar\source\repos\myLearnings\myLearnings\obj\Debug\myLearnings.csprojAssemblyReference.cache
+C:\Users\Senthilkumar\source\repos\myLearnings\myLearnings\obj\Debug\myLearnings.csproj.CoreCompileInputs.cache
+C:\Users\Senthilkumar\source\repos\myLearnings\myLearnings\obj\Debug\myLearnings.exe
+C:\Users\Senthilkumar\source\repos\myLearnings\myLearnings\obj\Debug\myLearnings.pdb
