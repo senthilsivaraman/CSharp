@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Dictionary
 {
@@ -22,6 +20,10 @@ namespace Dictionary
             myDict.Add("Xavi", "Pass Pass Pass");
             myDict.Add("Ronaldo", "Best Striker of all time");
             myDict.Add("Pique", "Next Barca President");
+            
+                //Replacing
+            myDict["Xavi"] = "Upcoming coach of Barca"; //It replaces the value at key3
+            //myDict.Add("Xavi", "Upcoming coach of Barca"); --> This throws error
 
             //Printing specific Value
             Console.WriteLine("Value at Dict[4] is {0}\n\n", myDict["Messi"]);
